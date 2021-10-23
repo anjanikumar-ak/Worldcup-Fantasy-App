@@ -151,7 +151,7 @@ function getParticipants() {
         { name: "Avishka Fernando", points: 0 },
         { name: "Moeen Ali", points: 0 },
         { name: "Adil Rashid", points: 0 },
-        { name: "Glenn Phillips", points: -48.0 },
+        { name: "Glenn Phillips", points: 0 },
         { name: "Mohammad Nabi", points: 0 },
         { name: "Kusal Perera", points: 0 },
       ],

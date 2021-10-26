@@ -94,7 +94,7 @@ function getParticipants() {
         { name: "Jonny Bairstow", points: 0 },
         { name: "Hasan Ali", points: 0 },
         { name: "Mark Wood", points: 0 },
-        { name: "Lockie Ferguson", points: 0 },
+        { name: "Adam Milne", points: 0 },
         { name: "Akeal Hosein", points: 0 },
         { name: "Dushmantha Chameera", points: -120.0},
         { name: "Mushfiqur Rahim", points: -95.0 },

@@ -146,7 +146,7 @@ function getParticipants() {
         { name: "Evin Lewis", points: 0 },
         { name: "Mitchell Santner", points: 0 },
         { name: "Rassie van der Dussen", points: 0 },
-        { name: "Obed McCoy", points: 0 },
+        { name: "Jason Holder", points: +12.0 },
         { name: "Shardul Thakur", points: 0 },
         { name: "Avishka Fernando", points: -58.0 },
         { name: "Moeen Ali", points: 0 },
